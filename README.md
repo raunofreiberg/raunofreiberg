@@ -12,4 +12,4 @@ Hiya, I'm **Rauno** — a senior software engineer at [Veriff](https://veriff.co
 
 - ...and road cycling! 🚴‍
 
-<div style="background: linear-gradient(to right, #1e3c72, #2a5298);width:200px;height:300px;">yo</div>
+<div style="background-color:red;width:200px;height:300px;">yo</div>
