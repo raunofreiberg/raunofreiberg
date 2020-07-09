@@ -11,5 +11,3 @@ Hiya, I'm **Rauno** — a senior software engineer at [Veriff](https://veriff.co
 - Thoughtful and accessible experiences for end users ♿️
 
 - ...and road cycling! 🚴‍
-
-<div style="background-color:red;width:200px;height:300px;">yo</div>
