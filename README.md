@@ -1,6 +1,10 @@
 ### 👋
 
-Hiya, I'm **Rauno** — a senior software engineer at [Veriff](https://veriff.com) working on our design system — Genoma, where I enjoy crafting reusable components with a delightful developer *and* user experience. ✨
+Hiya, I'm **Rauno** — a senior software engineer with a soft spot for design systems and user interfaces. ✨
+
+Up until recently, I led the engineering of [Veriff's](https://veriff.com) design system Genoma, where I grew the component library up to 30+ accessible and reusable React components, used by all user-facing services up to 700+ instances in production.
+
+Today, I'm working on [UI Playbook](http://uiplaybook.dev/), the documented collection of UI components, where I apply most of my learnings, research, and experience with design systems for open-source.
 
 ## Things I care about (in no particular order)
 
@@ -11,3 +15,7 @@ Hiya, I'm **Rauno** — a senior software engineer at [Veriff](https://veriff.co
 - Thoughtful and accessible experiences for end users ♿️
 
 - ...and road cycling! 🚴‍
+
+I'm open to new opportunities, so if it feels like we share common interests — drop me a line!
+
+✌️
