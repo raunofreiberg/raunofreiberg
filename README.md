@@ -4,7 +4,9 @@ Hiya, I'm **Rauno** — a senior software engineer with a soft spot for design s
 
 Up until recently, I led the engineering of [Veriff's](https://veriff.com) design system Genoma, where I grew the component library to 30+ accessible and reusable React components, used by all user-facing services up to 700+ instances in production.
 
-Today, I'm working on [UI Playbook](http://uiplaybook.dev/), the documented collection of UI components, where I apply my learnings, research, and experience with design systems for open-source.
+Today, I operate as a contractor for various agencies and businesses with an emphasis on design systems, user interfaces, prototyping, and MVP development.
+
+On the side, I apply my learnings, research, and experience with design systems for open-source by documenting components at [UI Playbook](http://uiplaybook.dev/) and exploring generative user interfaces at [Finite](https://finite.studio).
 
 ## Things I care about (in no particular order)
 
