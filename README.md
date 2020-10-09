@@ -16,6 +16,8 @@ Today, I'm working on [UI Playbook](http://uiplaybook.dev/), the documented coll
 
 - ...and road cycling! 🚴‍
 
+<hr />
+
 I'm open to new opportunities, so if it feels like we share common interests — drop me a line!
 
 ✌️
