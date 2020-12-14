@@ -16,7 +16,7 @@ On the side, I apply my learnings, research, and experience with design systems 
 
 - Thoughtful and accessible experiences for end users ♿️
 
-- ...and road cycling! 🚴‍
+- [Photography](https://500px.com/rauno) and road cycling! 📸 🚴‍♂️
 
 <hr />
 
