@@ -8,12 +8,12 @@ On the side, I apply my learnings, research, and experience with design systems 
 
 ## Things I care about (in no particular order)
 
-- Wonderful micro-interactions and attention to detail 🎉
+🎉 Wonderful micro-interactions and attention to detail
 
-- Reusable, consistent, and accessible components for engineers 💻
+💻 Reusable, consistent, and accessible components for engineers
 
-- Thoughtful and accessible experiences for end users ♿️
+♿️ Thoughtful and accessible experiences for end users
 
-- [Photography](https://500px.com/rauno) and road cycling! 📸 🚴‍♂️
+📸 [Photography](https://500px.com/rauno) and road cycling!
 
 ✌️
