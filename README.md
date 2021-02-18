@@ -1,5 +1,7 @@
 ### 👋
 
+<hr />
+
 Hiya, I'm **Rauno** — a senior software engineer with a soft spot for design systems and user interfaces. ✨
 
 Currently, I'm building front-end tooling with the incredible team at [▲ Vercel](https://vercel.com).
@@ -16,4 +18,6 @@ On the side, I apply my learnings, research, and experience with design systems 
 
 📸 [Photography](https://500px.com/rauno) and road cycling!
 
-✌️
+<hr />
+
+### ✌️
