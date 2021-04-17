@@ -6,7 +6,7 @@ Hiya, I'm **Rauno** — a senior software engineer with a soft spot for design s
 
 Currently, I'm building front-end tooling with the incredible team at [▲ Vercel](https://vercel.com).
 
-On the side, I apply my learnings, research, and experience with design systems for open-source by documenting components at [UI Playbook](http://uiplaybook.dev/) and exploring generative user interfaces at [Finite](https://finite.studio).
+On the side, I apply my learnings, research, and experience with design systems for open-source by documenting components at [UI Playbook](http://uiplaybook.dev/) and experimenting with user interfaces at [uiwtf](https://uiw.tf).
 
 ## Things I care about (in no particular order)
 
